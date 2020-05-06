@@ -10,4 +10,4 @@ A repository for tools and applications meant to inform safe return to campus de
 * Na Yeon Kim, Masters Student, ISYE, GT
 * Kaiwen Luo, Masters Student, ISYE, GT
 * Mehran Navabi-Shirazi, Masters Student, ISYE, GT
-* Xinyi Li, Masters Student ISYE, GT
+* Xinyi Li, Masters Student, ISYE, GT
