@@ -7,10 +7,14 @@ A repository for tools and applications meant to inform safe return to campus de
 * Lauren Steimle, Assistant Professor, ISYE, GT
 
 ### Team Members
-* Na Yeon Kim, Masters Student, ISYE, GT
-* Kaiwen Luo, Masters Student, ISYE, GT
-* Mehran Navabi-Shirazi, Masters Student, ISYE, GT
-* Xinyi Li, Masters Student, ISYE, GT
+* Na Yeon Kim, Master's Student, ISYE, GT
+* Kaiwen Luo, Master's Student, ISYE, GT
+* Mehran Navabi-Shirazi, Master's Student, ISYE, GT
+* Xinyi Li, Master's Student, ISYE, GT
+* Shimeng Zhang, Master's Student, ISYE, GT
+* 
+
 * Trevor Pope, Undergraduate Student, ISYE, GT
 * Katherine Wehrenberg, Undergraduate Student, ISYE, GT
+
 
