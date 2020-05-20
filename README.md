@@ -13,7 +13,9 @@ A repository for tools and applications meant to inform safe return to campus de
 * Xinyi Li, Master's Student, ISYE, GT
 * Shimeng Zhang, Master's Student, ISYE, GT
 * 
-
+*
+*
+*
 * Trevor Pope, Undergraduate Student, ISYE, GT
 * Katherine Wehrenberg, Undergraduate Student, ISYE, GT
 
