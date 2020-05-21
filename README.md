@@ -13,7 +13,7 @@ A repository for tools and applications meant to inform safe return to campus de
 * Xinyi Li, Master's Student, ISYE, GT
 * Shimeng Zhang, Master's Student, ISYE, GT
 * 
-*
+* [add your name here]
 *
 *
 * Trevor Pope, Undergraduate Student, ISYE, GT
