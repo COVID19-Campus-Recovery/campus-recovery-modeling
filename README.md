@@ -25,7 +25,7 @@ We will be posting our findings to our website
 
 ### Team Leaders
 * <b> <a href="http://pwp.gatech.edu/steimle/"> Lauren N. Steimle</a></b>, Assistant Professor, H. Milton Stewart School of Industrial and Systems Engineering, Georgia Tech
-* <b> <a href="http://pwp.gatech.edu/dima-nazzal/"> Dima Nazzal </a></b> , Director of Professional Practice, H. Milton Stewart School of Industrial and Systems Engineering, Georgia Tech
+* <b> <a href="http://pwp.gatech.edu/dima-nazzal/"> Dima Nazzal</a></b>, Director of Professional Practice, H. Milton Stewart School of Industrial and Systems Engineering, Georgia Tech
 * Natashia Boland, Fouts Family Professor, H. Milton Stewart School of Industrial and Systems Engineering, Georgia Tech
 
 
