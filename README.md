@@ -7,8 +7,8 @@ A repository for tools and applications meant to inform safe return to campus de
 ### Open-Source Tools -- See repository
 Here are some tools we are developing to help campus planners:
 
-* Classroom layout designer -- helping campus planners estimate capacities of classrooms and assign seats to allow for social distancing
-* Room assignment optimization models  <span style="color:red"> Coming Soon! </span> -- We are developing tools to help campus planners identify which classes should be assigned to which rooms in a way that accounts for reduced room capacities and alternative modes of course delivery (e.g., hybrid models where some classes are delivered online)
+* <span style="color:red"> [Coming Soon!] </span> Classroom layout designer -- helping campus planners estimate capacities of classrooms and assign seats to allow for social distancing
+* <span style="color:red"> [Coming Soon!] </span> Room assignment optimization models   -- We are developing tools to help campus planners identify which classes should be assigned to which rooms in a way that accounts for reduced room capacities and alternative modes of course delivery (e.g., hybrid models where some classes are delivered online)
 
 ### Other insights
 We will be posting our findings to our website
