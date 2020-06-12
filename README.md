@@ -32,19 +32,19 @@ We will be posting our findings to our website
 ### Team Members
 
 #### Graduate Students
-* <b> <a href="www.linkedin.com/in/yogesh-avhad"> Yogesh Avhad</a></b>, MS, Supply Chain, Expected Graduation: December 2020
+* <b> <a href="www.linkedin.com/in/yogesh-avhad"> Yogesh Avhad</a></b>, MS, Supply Chain
 * <b> <a href="www.linkedin.com/in/mariana-de-almeida-costa"> Mariana De Almeida Costa </a> </b>, PhD, Industrial Engineering
 * Mohamed Ali El Moghazi El Tonbari, PhD, Operations Research
 * <b> <a href="http://rgashgari.mystrikingly.com/"> Raneem Gashgari </a> </b>, MS, Industrial Engineering
 * <b> <a href="https://www.linkedin.com/in/hanna-hamilton-398874110/"> Hanna Hamilton </a> </b>, MS, Analytics
 * <b> <a href="https://www.linkedin.com/in/edward-he-68801312a/"> Edward He </a> </b>, PhD, Operations Research 
 * Na Yeon Kim, PhD, Industrial Engineering
-* <b> <a href="https://www.linkedin.com/in/xinyi-li-329a9419b"> Xinyi Li </a> </b>, MS, Industrial Engineering
-* <b> <a href="https://www.linkedin.com/in/di-liu-8b9831112/"> Di Liu </a> </b>, PhD, Operations Research 
-* <b> <a href="https://www.linkedin.com/in/kaiwen-kevin-luo-2893aa17b/"> Kaiwen Luo </a> </b>, MS, Industrial Engineering
-* <b> <a href="http://linkedin.com/in/mehran-navabi-157a9559"> Mehren Navabi-Shirazi </a> </b>, MS, Operations Research
-* <b> <a href="linkedin.com/in/yuming-sun-573901151"> Yuming Sun </a> </b>, MS, Operations Research
-* <b> <a href="https://www.linkedin.com/in/shimeng-zhang146a94149/"> Shimeng Zhang </a> </b>, MS, Operations Research
+* <b> <a href="https://www.linkedin.com/in/xinyi-li-329a9419b"> Xinyi Li</a> </b>, MS, Industrial Engineering
+* <b> <a href="https://www.linkedin.com/in/di-liu-8b9831112/"> Di Liu</a></b>, PhD, Operations Research 
+* <b> <a href="https://www.linkedin.com/in/kaiwen-kevin-luo-2893aa17b/"> Kaiwen Luo </a></b>, MS, Industrial Engineering
+* <b> <a href="http://linkedin.com/in/mehran-navabi-157a9559"> Mehren Navabi-Shirazi</a></b>, MS, Operations Research
+* <b> <a href="linkedin.com/in/yuming-sun-573901151"> Yuming Sun</a></b>, MS, Operations Research
+* <b> <a href="https://www.linkedin.com/in/shimeng-zhang146a94149/"> Shimeng Zhang </a></b>, MS, Operations Research
 * Yilun Zha PhD, Architecture
 
 #### ISyE Undergraduate Students
