@@ -24,7 +24,7 @@ We will be posting our findings to our website
 ## The Team
 
 ### Team Leaders
-* Lauren Steimle, Assistant Professor, ISYE, GT
+* <b> <a href="http://pwp.gatech.edu/steimle/"> Lauren N. Steimle </a></b>, Assistant Professor, H. Milton Stewart School of Industrial and Systems Engineerig, Georgia Tech
 * Dima Nazzal, Director of Professional Practice, ISYE, GT
 * Natashia Boland, Fouts Family Professor, ISYE, GT
 
