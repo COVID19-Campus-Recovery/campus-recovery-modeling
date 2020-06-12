@@ -32,25 +32,25 @@ We will be posting our findings to our website
 ### Team Members
 
 #### Graduate Students
-* <b> <a href="www.linkedin.com/in/yogesh-avhad"> Yogesh Avhad</a></b>, Master's Student, Supply Chain, Expected Graduation: December 2020
-* Mariana De Almeida Costa PhD, Industrial Engineering
-* Mohamed Ali El Moghazi El Tonbari PhD, Operations Research
-* Raneem Gashgari MS, Industrial Engineering
-* Hanna Hamilton MS, Analytics
-* Edward He, PhD student, Operations Research 
+* <b> <a href="www.linkedin.com/in/yogesh-avhad"> Yogesh Avhad</a></b>, MS, Supply Chain, Expected Graduation: December 2020
+* <b> <a href="www.linkedin.com/in/mariana-de-almeida-costa"> Mariana De Almeida Costa </a> </b>, PhD, Industrial Engineering
+* Mohamed Ali El Moghazi El Tonbari, PhD, Operations Research
+* <b> <a href="http://rgashgari.mystrikingly.com/"> Raneem Gashgari </a> </b>, MS, Industrial Engineering
+* <b> <a href="https://www.linkedin.com/in/hanna-hamilton-398874110/"> Hanna Hamilton </a> </b>, MS, Analytics
+* <b> <a href="https://www.linkedin.com/in/edward-he-68801312a/"> Edward He </a> </b>, PhD, Operations Research 
 * Na Yeon Kim, PhD, Industrial Engineering
-* Xinyi Li MS, Industrial Engineering
-* Di Liu PhD, Operations Research 
-* Kaiwen Luo MS, Industrial Engineering
-* Mehren Navabi-Shirazi MS, Operations Research
-* Yuming Sun MS, Operations Research
-* Shimeng Zhang MS, Operations Research
+* <b> <a href="https://www.linkedin.com/in/xinyi-li-329a9419b"> Xinyi Li </a> </b>, MS, Industrial Engineering
+* <b> <a href="https://www.linkedin.com/in/di-liu-8b9831112/"> Di Liu </a> </b>, PhD, Operations Research 
+* <b> <a href="https://www.linkedin.com/in/kaiwen-kevin-luo-2893aa17b/"> Kaiwen Luo </a> </b>, MS, Industrial Engineering
+* <b> <a href="http://linkedin.com/in/mehran-navabi-157a9559"> Mehren Navabi-Shirazi </a> </b>, MS, Operations Research
+* <b> <a href="linkedin.com/in/yuming-sun-573901151"> Yuming Sun </a> </b>, MS, Operations Research
+* <b> <a href="https://www.linkedin.com/in/shimeng-zhang146a94149/"> Shimeng Zhang </a> </b>, MS, Operations Research
 * Yilun Zha PhD, Architecture
 
-#### ISYE Undergraduate Students
-* Trevor Pope, Undergraduate Student, Industrial and Systems Engineering, GT
-* Lauren Johnson, Undergraduate Student, Industrial and Systems Engineering, GT
-* Kate Wehrenberg, Undergraduate Student, Industrial and Systems Engineering, GT
+#### ISyE Undergraduate Students
+* <b> <a href="https://github.com/trevor-pope"> Trevor Pope </a> </b>, Undergraduate, Industrial and Systems Engineering
+* <b> <a href="https://www.linkedin.com/in/laurenashleigh/"> Lauren Johnson </a> </b>, Undergraduate, Industrial and Systems Engineering
+* <b> <a href="linkedin.com/in/katherine-anne-wehrenberg/"> Kate Wehrenberg </a> </b>, Undergraduate, Industrial and Systems Engineering
 
 
 ### Thank you to our seed grant sponsor
