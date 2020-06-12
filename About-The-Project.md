@@ -1,4 +1,4 @@
-# COVID-19 Campus Recovery Analtyics
+# COVID-19 Campus Recovery Analytics
 A repository for tools and applications meant to inform safe return to campus decisions for colleges and universities amid the COVID-19 pandemic. 
 
 
