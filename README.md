@@ -32,7 +32,7 @@ We will be posting our findings to our website
 ### Team Members
 
 #### Graduate Students
-* Yogesh Avhad MS, Supply Chain
+* <b> <a href="linkedin.com/in/yogesh-avhad"> Yogesh Avhad</a>  </b> Master's Student, Supply Chain, Expected Graduation: December 2020
 * Mariana De Almeida Costa PhD, Industrial Engineering
 * Mohamed Ali El Moghazi El Tonbari PhD, Operations Research
 * Raneem Gashgari MS, Industrial Engineering
