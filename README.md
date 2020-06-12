@@ -2,7 +2,7 @@
 A repository for tools and applications meant to inform safe return to campus decisions for colleges and universities amid the COVID-19 pandemic. 
 
 
-## List of Tools
+## Campus Recovery Tools and Insights
 
 ### Open-Source Tools -- See repository
 Here are some tools we are developing to help campus planners:
