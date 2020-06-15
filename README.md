@@ -7,7 +7,7 @@ This repository is meant to share tools and code to inform safe return to campus
 ### Open-Source Tools -- See repository
 Here are some tools we are developing to help campus planners:
 
-* <span style="color:red"> [Coming Soon!] </span> <b> <a href="https://github.com/COVID19-Campus-Recovery/social-distancing-classroom-layout"> Socially-distanced classroom layout designer</a></b>: helping campus planners estimate capacities of classrooms and create classroom layouts that allow for social distancing
+* <span style="color:red"> [Coming Soon!] </span> <b> <a href="https://github.com/COVID19-Campus-Recovery/social-distancing-classroom-layout"> Socially-distanced classroom layout designer</a></b>: a tool for campus planners to create classroom layouts that allow for social distancing. The layouts can help planners better estimate their classrooms' capacities under social distancing policies
 * <span style="color:red"> [Coming Soon!] </span> Room assignment optimization models   -- We are developing tools to help campus planners identify which classes should be assigned to which rooms in a way that accounts for reduced room capacities (to accomodate social distancing) and alternative modes of course delivery (e.g., hybrid models where some classes are delivered online)
 
 ### Other insights
