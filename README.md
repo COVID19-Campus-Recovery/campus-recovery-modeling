@@ -1,6 +1,7 @@
 # COVID-19 Campus Recovery Analytics
 This repository is meant to share tools and code to inform safe return to campus decisions for colleges and universities amid the COVID-19 pandemic. 
 
+We would appreciate your feedback! Please <a href = "https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_MvqggwlsM-9yualNlljvVomgnNFUMTVSWkJNWE9YS1RWWUwxQ0I1RVY5WlpLNy4u"> sign up </a>  to be a beta tester to help us improve our code and tools.
 
 ## Campus Recovery Tools and Insights
 
