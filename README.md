@@ -49,7 +49,7 @@ We will be posting our findings to our website
 * <b> <a href="https://www.linkedin.com/in/yuming-sun-573901151"> Yuming Sun</a></b>, Master's Student, Operations Research
 * <b> <a href="https://www.linkedin.com/in/di-emma-wu/"> Di (Emma) Wu</a></b>, PhD Student, Operations Research
 * <b> <a href="https://www.linkedin.com/in/shimeng-zhang146a94149/"> Shimeng Zhang</a></b>, Master's Student, Operations Research
-* <b> <a href ="https://www.linkedin.com/in/yilun-elon-zha-454818180/"> Yilun Zha</a> </b>, PhD student, Urban Design, City Planning, and Statistics
+* <b> <a href ="https://www.linkedin.com/in/yilun-elon-zha-454818180/"> Yilun Zha</a> </b>, PhD Student, Urban Design, City Planning, and Statistics
 
 #### ISyE Undergraduate Students
 * <b> <a href="https://github.com/trevor-pope"> Trevor Pope</a> </b>, Undergraduate Student, Industrial and Systems Engineering
