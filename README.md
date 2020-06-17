@@ -33,6 +33,9 @@ We will be posting our findings to our website
 
 ### Team Members
 
+#### Faculty Collaborators
+* <b> <a href="https://github.com/friendlycitieslab"> Clio Andris</a></b>, Assistant Professor, City and Regional Planning & Interactive Computing  
+
 #### Graduate Students
 * <b> <a href="https://www.linkedin.com/in/yogesh-avhad"> Yogesh Avhad</a></b>, Master's Student, Supply Chain
 * <b> <a href="https://www.linkedin.com/in/mehrabmorshed/"> Mehrab Bin Morshed</a></b>, PhD Student, Computer Science
