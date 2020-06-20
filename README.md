@@ -11,12 +11,7 @@ Here are some tools we are developing to help campus planners:
 *  <b> <a href="https://github.com/COVID19-Campus-Recovery/social-distancing-classroom-layout"> Socially-distanced classroom layout designer </a></b>: a tool for campus planners to create classroom layouts that allow for social distancing. The layouts can help planners better estimate their classrooms' capacities under social distancing policies 
 * <span style="color:red"> [Coming Soon!] </span> Room assignment optimization models: We are developing tools to help campus planners identify which classes should be assigned to which rooms in a way that accounts for reduced room capacities (to accomodate social distancing) and alternative modes of course delivery (e.g., hybrid models where some classes are delivered online)
 
-### Other insights
-We will be posting our findings to our website
 
-* Analysis of students’ academic and extracurricular network
-* Surveys on student preferences and behavior
-* Campus Disease Spread Simulator
 
 
 
