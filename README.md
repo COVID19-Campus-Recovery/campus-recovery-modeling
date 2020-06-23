@@ -42,7 +42,7 @@ Here are some tools we are developing to help campus planners:
 * <b> <a href="https://www.linkedin.com/in/xinyi-li-329a9419b"> Xinyi Li</a> </b>, Master's Student, Industrial Engineering
 * <b> <a href="https://www.linkedin.com/in/di-liu-8b9831112/"> Di Liu</a></b>, PhD Student, Operations Research 
 * <b> <a href="https://www.linkedin.com/in/kaiwen-kevin-luo-2893aa17b/"> Kaiwen Luo</a></b>, Master's Student, Industrial Engineering
-* <b> <a href="https://www.linkedin.com/in/mehran-navabi-157a9559"> Mehren Navabi-Shirazi</a></b>, Master's Student, Operations Research
+* <b> <a href="https://www.linkedin.com/in/mehran-navabi-157a9559"> Mehran Navabi-Shirazi</a></b>, Master's Student, Operations Research
 * <b> <a href="https://www.linkedin.com/in/yuming-sun-573901151"> Yuming Sun</a></b>, Master's Student, Operations Research
 * <b> <a href="https://www.linkedin.com/in/di-emma-wu/"> Di (Emma) Wu</a></b>, PhD Student, Operations Research
 * <b> <a href="https://www.linkedin.com/in/shimeng-zhang146a94149/"> Shimeng Zhang</a></b>, Master's Student, Operations Research
