@@ -54,7 +54,7 @@ Here are some tools we are developing to help campus planners:
 * <b> <a href="https://www.linkedin.com/in/katherine-anne-wehrenberg/"> Kate Wehrenberg</a> </b>, Undergraduate Student, Industrial and Systems Engineering
 
 
-### Thank you to our seed grant sponsor
-This work is supported by ISYE’s Thos and Clair Muller Research Endowment Fund through a seed grant.
+### Thank you to our seed grant sponsors
+This work is supported by seed grants through Georgia Tech ISYE’s Thos and Clair Muller Research Endowment Fund and the Georgia Tech EVPR COVID-19 Rapid Response Seed Grant Program.
 
 
