@@ -12,6 +12,12 @@ Here are some tools we are developing to help campus planners:
 * <b> <a href="https://github.com/COVID19-Campus-Recovery/Scheduling-Optimization">  Course mode and classroom assignment optimization model </a></b>: We are created a tool to help campus planners identify which classes should be assigned to which rooms and alternative modes of course delivery (e.g., hybrid models where some classes are delivered online) in a way that accounts for reduced room capacities (to accomodate social distancing)
 
 
+### Journal Articles and Opinion Editorials
+
+* Navabi-Shirazi, Mehran, Mohamed El Tonbari, Natashia Boland, Dima Nazzal, and Lauren N. Steimle. ``[Multi-criteria Course Mode Selection and Classroom Assignment Under Sudden Space Scarcity](http://www.optimization-online.org/DB_FILE/2021/08/8527.pdf)" _Manufacturing & Service Operations Management_ (Forthcoming)
+* Steimle, Lauren N., Yuming Sun, Lauren Johnson, Tibor Besedeš, Patricia Mokhtarian, and Dima Nazzal. (2022). ``[Students’ preferences for returning to colleges and universities during the COVID-19 pandemic: A discrete choice experiment](https://doi.org/10.1016/j.seps.2022.101266)." _Socio-economic planning sciences_, 101266.
+* Steimle, Lauren, and Dima Nazzal. "[Does a 'return to campus' translate to a return to the classroom?.](https://pubsonline.informs.org/do/10.1287/orms.2020.04.14/full/)" _OR-MS Today_ (2020).
+* Steimle, Lauren, and Dima Nazzal. "[Georgia Tech researchers: Colleges too optimistic about social distancing](https://www.ajc.com/blog/get-schooled/georgia-tech-researchers-colleges-too-optimistic-about-social-distancing/3RMVbYF5Hu9eLot26SyuLN/)" _Atlanta Journal-Constituion_, June 26, 2020.
 
 
 
